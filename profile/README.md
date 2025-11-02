@@ -4,6 +4,6 @@ Junior ENSEA est une association à but non lucratif régie par la loi 1901, qui
 
 ## 📧 Contact
 
-**Site web :** https://junior-ensea.fr
+**Site web :** https://junior-ensea.fr  
 **Email :** junior@ensea.fr  
 **Adresse :** 6 avenue du Ponceau, 95014 Cergy-Pontoise Cedex
